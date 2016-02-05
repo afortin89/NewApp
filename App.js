@@ -28,6 +28,7 @@ Ext.define('CustomApp', {
      });
     },
 
+
      // create grid
     _loadGrid: function(myStoryStore){
          var myGrid = Ext.create('Rally.ui.grid.Grid', {   
